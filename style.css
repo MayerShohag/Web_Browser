@@ -1,0 +1,204 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+img{
+    max-width: 100%;
+}
+.some{
+    width: 100%;
+    min-height: 100vh;
+    padding: 5%;
+    background-image: linear-gradient(rgba(0,8,51, 0.9), rgba(0,8,51, 0.9)), url(Sea\ Beach.jpg);
+    background-position: center;
+    background-size: cover;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-bottom: 300px;
+}
+.search-bar{
+    width: 100%;
+    max-width: 700px;
+    background: rgba(255,255,255, 0.2);
+    align-items: center;
+    border-radius: 60px;
+    padding: 10px 20px;
+    
+}
+.search-bar input{
+    background: transparent;
+    flex: 1;
+    border: 0;
+    width: 700px;
+    max-width: 620px;
+    outline: none;
+    padding-left: 18px;
+    padding: 7px;
+    font-size: 18px;
+    color: #cac7ff;
+    
+}
+::placeholder{
+    color: #cac7ff;
+}
+.search-bar button img{
+    width: 15px;
+}
+.search-bar button{
+    border: 0;
+    border-radius: 50%;
+    width: 35px;
+    height: 35px;
+    background: #58629b;
+    cursor: pointer;
+    padding-top: 3px;
+}
+.b{
+    font-size: 80px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: #cac7ff;
+    position: absolute;
+    left: 43%;
+    right: 57%;
+    padding-top: 11%;
+}
+.git{
+    position: absolute;
+    left: 20%;
+    right: 80%;
+    padding-top: 5%;
+    text-align: center;
+    justify-items: center;
+}
+
+.fb{
+    position: absolute;
+    left: 26.5%;
+    right: 73.5%;
+    padding-top: 5%;
+    text-align: center;
+    justify-items: center;
+}
+.google{
+    position: absolute;
+    left: 34.5%;
+    right: 65.5%;
+    padding-top: 5%;
+    text-align: center;
+    justify-items: center;
+}
+.yt{
+    position: absolute;
+    left: 41.5%;
+    right: 58.5%;
+    padding-top: 5%;
+    text-align: center;
+    justify-items: center;
+}
+.insta{
+    position: absolute;
+    left: 48.5%;
+    right: 51.5%;
+    padding-top: 5%;
+    text-align: center;
+    justify-items: center;
+}
+.twitter{
+    position: absolute;
+    left: 56.5%;
+    right: 43.5%;
+    padding-top: 5%;
+    text-align: center;
+    justify-items: center;
+}
+.linkedin{
+    position: absolute;
+    left: 62.5%;
+    right: 37.5%;
+    padding-top: 5%;
+    text-align: center;
+    justify-items: center;
+}
+.hackerrank{
+    position: absolute;
+    left: 68.5%;
+    right: 31.5%;
+    padding-top: 5%;
+    text-align: center;
+    justify-items: center;
+}
+.gmail{
+    position: absolute;
+    left: 77.5%;
+    right: 22.5%;
+    padding-top: 5%;
+    text-align: center;
+    justify-items: center;
+}
+.replit{
+    position: absolute;
+    left: 23.5%;
+    right: 76.5%;
+    padding-top: 11%;
+    text-align: center;
+    justify-items: center;
+}
+.leetcode{
+    position: absolute;
+    left: 30.5%;
+    right: 69.5%;
+    padding-top: 11%;
+    text-align: center;
+    justify-items: center;
+}
+.removebg{
+    position: absolute;
+    left: 37.5%;
+    right: 62.5%;
+    padding-top: 11%;
+    text-align: center;
+    justify-items: center;
+}
+.icons{
+    position: absolute;
+    left: 45.5%;
+    right: 54.5%;
+    padding-top: 11%;
+    text-align: center;
+    justify-items: center;
+}
+.typerush{
+    position: absolute;
+    left: 52.5%;
+    right: 54.5%;
+    padding-top: 11%;
+    text-align: center;
+    justify-items: center;
+}
+.daraz{
+    position: absolute;
+    left: 60%;
+    right: 40%;
+    padding-top: 11%;
+    text-align: center;
+    justify-items: center;
+}
+.cgpt{
+    position: absolute;
+    left: 66%;
+    right: 34%;
+    padding-top: 11%;
+    text-align: center;
+    justify-items: center;
+}
+.python{
+    position: absolute;
+    left: 73%;
+    right: 27%;
+    padding-top: 11%;
+    text-align: center;
+    justify-items: center;
+}
